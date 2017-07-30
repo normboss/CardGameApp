@@ -52,7 +52,6 @@ public class Game
         {
             this.players[i].evalHand();
         }
-        
     }
     
     private void dealCards()
